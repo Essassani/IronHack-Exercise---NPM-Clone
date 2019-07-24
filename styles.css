@@ -234,3 +234,61 @@ nav a {
     font-size: 35px;
     font-weight: 300;
 }
+
+#find {
+    text-align: center;
+    width: 33%;
+    display: inline;
+    float: left;
+    margin: 75px 0;
+}
+
+#discover {
+    text-align: center;
+    width: 33%;
+    display: inline;
+    float: left;
+    margin: 75px 0;
+}
+
+#build {
+    text-align: center;
+    width: 33%;
+    display: inline;
+    float: left;
+    margin: 75px 0;
+}
+
+#find a {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+
+#find p, #discover p, #build p {
+    padding: 0 100px;
+}
+
+#find h3, #discover h3, #build h3 {
+    color: rgb(83, 88, 98);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+
+}
+
+.explore {
+    text-align: center;
+    padding: 50px 15% 10px 15%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(135, 145, 156)
+}
+
+.what h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: rgb(83, 88, 98);
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+
+
